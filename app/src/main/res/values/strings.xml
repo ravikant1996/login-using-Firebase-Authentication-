@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SignIN</string>
+    <string name="txt">Click below Button to Sign In</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_error_occurred" />
+    <string name="signout">SignOut</string>
+
+    <string name="facebook_application_id" translatable="false">508521349771387</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb508521349771387</string>
+</resources>

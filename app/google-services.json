@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "711991287009",
+    "firebase_url": "https://signinusingfacetwitter.firebaseio.com",
+    "project_id": "signinusingfacetwitter",
+    "storage_bucket": "signinusingfacetwitter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711991287009:android:c99e6c058b72784dc16ba0",
+        "android_client_info": {
+          "package_name": "com.example.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711991287009-nn3me0iglhc6unlvo4d78vcgcd7mqi8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signin",
+            "certificate_hash": "dd5f696583797dbe9f1ca059b1f74b1a098ffefc"
+          }
+        },
+        {
+          "client_id": "711991287009-ff7f29aei4r1sngvjni7le73oj8uoeso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTnUPAXlUjJw-bS5t0_Dvmlz2sxFHfcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711991287009-ff7f29aei4r1sngvjni7le73oj8uoeso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
